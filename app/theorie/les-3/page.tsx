@@ -219,7 +219,7 @@ export default function Les3() {
       {/* Navigation */}
       <div className="flex justify-between items-center pt-6 border-t border-gray-800">
         <Link href="/theorie/les-2" className="text-gray-400 hover:text-white transition text-sm">← Les 2</Link>
-        <span className="text-gray-600 text-sm">Les 4 komt binnenkort</span>
+       <Link href="/theorie/les-4" className="text-gray-400 hover:text-white transition text-sm">Les 4 →</Link>
       </div>
 
     </main>
